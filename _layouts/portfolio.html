@@ -1,0 +1,70 @@
+---
+layout: base 
+---
+{% for post in site.posts limit:10 %}
+    <article class="article">
+      <h2 class="article__title">
+        <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a> 
+      </h2>
+      {% if post.cover_display %}
+        <a class="article__cover_thumbnail" href="{{ post.url | prepend: site.baseurl }}">
+            <div class="article_cover_desc">
+              <p class="article__author">
+                {{ post.author }}
+                </br>
+                {{ post.status }}
+              </p>
+                <p class="article__excerpt">
+                  {% if post.abstract %}
+                    {{ post.abstract }}
+                  {% else %}
+                  {% endif %}
+              </p>
+            </div>
+            <div class="article_cover_image">
+                <div style="background-image:url('{{ post.cover }}')"></div>
+            </div>
+        </a>
+      {% else %}
+        <p class="article__excerpt">
+            {% if post.abstract %}
+              {{ post.abstract }}
+            {% else %}
+            {% endif %}
+        </p>
+      {% endif %}
+    </article>
+  {% endfor %}
+
+<!-- <div class="portfolio">
+  {% for post in paginator.posts %}
+    <a href="{{ post.url | prepend: site.baseurl }}" class="portfolio-item">
+      <div>
+        <h1 class="portfolio-title">{{ post.title }}</h1>
+        <div class="portfolio-line"></div>
+
+        <div class="portfolio-content"> 
+          <span class="portfolio-icon">
+              <i class="fa fa-calendar-alt"></i><span class="portfolio-icon-text">{{ post.date | date: "%B %d, %Y" }}</span>
+          </span>
+          </br>
+          <span class="portfolio-icon">
+              <span class="portfolio-icon-text">{{ post.info }}</span>
+          </span>
+        </div>
+      </div>
+    </a>
+    </br>
+  {% endfor %}
+</div> -->
+
+<div class="pagination">
+  {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}" class="left next">Prev</a>
+  {% endif %}
+  {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path | prepend: site.baseurl }}" class="right next">Next</a>
+  {% endif %}
+
+  <span>{{ paginator.page }}</span>
+</div>

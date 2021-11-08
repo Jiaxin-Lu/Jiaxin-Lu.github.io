@@ -1,0 +1,63 @@
+# Site settings
+title: Jiaxin Lu
+baseurl: "/jiaxin"
+url: "https://Jiaxin-Lu.github.io"
+google_analytics: # Tracking ID, e.g. "UA-000000-01"
+
+# Author
+author:
+  name: Jiaxin Lu
+  desc: Begin again.
+  email: lujiaxin@sjtu.edu.cn
+  selfie: assets/img/profile.jpg
+
+# social
+social:
+  email: true
+  behance:
+  bitbucket:
+  dribbble:
+  facebook: 
+  flickr:
+  github: Jiaxin-Lu
+  google_plus:
+  instagram:
+  keybase:
+  linkedin: 
+  pinterest:
+  reddit:
+  soundcloud:
+  stack_exchange:
+  steam:
+  tumblr:
+  gitlab:
+  twitter: jacinth_lu
+  vimeo:
+  wordpress:
+  youtube:
+  default_txt: "Follow On"
+
+# Build settings
+markdown: kramdown
+
+# Assets
+sass:
+  sass_dir: _sass
+  style: compressed
+
+# Gems
+plugins:
+  - jekyll-paginate
+
+# Permalinks
+permalink: /:title
+paginate_path: "/portfolio/page:num/"
+paginate: 20
+exclude:
+  - "Gemfile"
+  - "Gemfile.lock"
+  - "*.gem"
+  - "LICENSE"
+  - "READE.md"
+  - "screenshot.png"
+  - "pic-index.md"
