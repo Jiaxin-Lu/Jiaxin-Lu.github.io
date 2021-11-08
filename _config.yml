@@ -1,7 +1,7 @@
 # Site settings
 title: Jiaxin Lu
-baseurl: "/jiaxin"
-url: "https://Jiaxin-Lu.github.io"
+baseurl: ""
+url: "https://jiaxin-lu.github.io"
 google_analytics: # Tracking ID, e.g. "UA-000000-01"
 
 # Author
