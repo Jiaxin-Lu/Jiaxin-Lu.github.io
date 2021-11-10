@@ -6,7 +6,7 @@ layout: about
 
 <br/>
 
-<p test-aligh='justify'><font size='3.5'>I am Jiaxin Lu (陆嘉馨), a final year undergraduate student (expected to graduate in June 2022) with <a href="https://acm.sjtu.edu.cn/home"><b>ACM Class</b></a> in Zhiyuan College (Honored Program), <a href="https://www.sjtu.edu.cn"><b>Shanghai Jiao Tong University</b></a>, advised by <a href="https://thinklab.sjtu.edu.cn/"><b>Prof. Junchi Yan</b></a> and <a href="http://apex.sjtu.edu.cn/members/yyu"><b>Prof. Yong Yu</b></a>. I am also a research intern advised by <a href="https://www.cs.utexas.edu/~huangqx/"><b>Prof. Qixing Huang</b></a> at University of Texas at Austin.</font></p>
+<p test-aligh='justify'><font size='3.5'>I am Jiaxin Lu (陆嘉馨), a final year undergraduate student (expected to graduate in July 2022) with <a href="https://acm.sjtu.edu.cn/home"><b>ACM Class</b></a> in Zhiyuan College (Honored Program), <a href="https://www.sjtu.edu.cn"><b>Shanghai Jiao Tong University</b></a>, advised by <a href="https://thinklab.sjtu.edu.cn/"><b>Prof. Junchi Yan</b></a> and <a href="http://apex.sjtu.edu.cn/members/yyu"><b>Prof. Yong Yu</b></a>. I am also a research intern advised by <a href="https://www.cs.utexas.edu/~huangqx/"><b>Prof. Qixing Huang</b></a> at University of Texas at Austin.</font></p>
 
 <p><font size='3.5'>Email: <b>lujiaxin AT sjtu DOT edu DOT cn</b> </font></p>
 
@@ -27,7 +27,7 @@ Zetian Jiang&#42;, Jiaxin Lu&#42;, Tianzhe Wang, Junchi Yan
 
 *Submitted to T-PAMI*
 
-**Stitching and Cutting on Supergraph&#58; an EM Approach for Joint Graph Matching and Clustering**
+**Joint Graph Matching and Clustering with Unsupervised Learning**
 
 Jiaxin Lu, Zetian Jiang, Tianzhe Wang, Junchi Yan
 
