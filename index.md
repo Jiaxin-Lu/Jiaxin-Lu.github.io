@@ -6,7 +6,7 @@ layout: about
 
 <br/>
 
-<p test-aligh='justify'><font size='3.5'>I am Jiaxin Lu (陆嘉馨), a final year undergraduate student (expected to graduate in July 2022) with <a href="https://acm.sjtu.edu.cn/home"><b>ACM Class</b></a> in Zhiyuan College (Honored Program), <a href="https://www.sjtu.edu.cn"><b>Shanghai Jiao Tong University</b></a>, advised by <a href="https://thinklab.sjtu.edu.cn/"><b>Prof. Junchi Yan</b></a> and <a href="http://apex.sjtu.edu.cn/members/yyu"><b>Prof. Yong Yu</b></a>. I am also a research intern advised by <a href="https://www.cs.utexas.edu/~huangqx/"><b>Prof. Qixing Huang</b></a> at University of Texas at Austin.</font></p>
+<p test-aligh='justify'><font size='3.5'>I am Jiaxin Lu (陆嘉馨), a final year undergraduate student (expected to graduate in July 2022) at <a href="https://acm.sjtu.edu.cn/home"><b>ACM Class</b></a> in Zhiyuan College (Honored Program), <a href="https://www.sjtu.edu.cn"><b>Shanghai Jiao Tong University</b></a>, advised by <a href="https://thinklab.sjtu.edu.cn/"><b>Prof. Junchi Yan</b></a> and <a href="http://apex.sjtu.edu.cn/members/yyu"><b>Prof. Yong Yu</b></a>. I am also a research intern advised by <a href="https://www.cs.utexas.edu/~huangqx/"><b>Prof. Qixing Huang</b></a> at University of Texas at Austin.</font></p>
 
 <p><font size='3.5'>Email: <b>lujiaxin AT sjtu DOT edu DOT cn</b> </font></p>
 
@@ -38,12 +38,14 @@ Jiaxin Lu, Zetian Jiang, Tianzhe Wang, Junchi Yan
 **Department of Computer Science, University of Texas at Austin**, *May 2021 - Present*
 
 * Research Intern, Advised by [**Prof. Qixing Huang**](https://www.cs.utexas.edu/~huangqx/)
-* Working on conformal mesh parameterization problem.
+* Working on **conformal mesh parameterization** problem. 
+* One paper is planned to submit to *SIGGRAPH 2022*.
 
 **ThinkLab, Shanghai Jiao Tong University**, *July 2020 - Present*
 
 * Undergraduate Researcher, Advised by [**Prof. Junchi Yan**](https://thinklab.sjtu.edu.cn/)
-* Working on graph matching problems including partial matching problem, joint multi-graph matching and clustering problem, and deep learning graph matching.
+* Working on **graph matching** problems including partial matching problem, joint multi-graph matching and clustering problem, and deep learning graph matching.
+* One paper submitted to *CVPR 2022* as the first author, another paper submitted to *T-PAMI* as one of the first authors.
 
 # Awards
 
@@ -94,7 +96,7 @@ Jiaxin Lu, Zetian Jiang, Tianzhe Wang, Junchi Yan
 
 I am the runner and editor of the official account of our class 'ACMClass2018'. I am also a member of student organizing team of ACM-Class Student Academic Festival 2021.
 
-I am a cinephile. My favorite directors includes Damien Chazelle, Agnès Varda, Paul Thomas Anderson, and many more. I am a member of student group 800 Movie Theater and hosted several salons and weekend theaters.
+I am a cinephile. My favorite directors includes Damien Chazelle, Agnès Varda, Paul Thomas Anderson, Wes Anderson, and many more. I am a member of student group 800 Movie Theater and hosted several salons and weekend theaters.
 
 I love graphic design and have designed many posters. You can find some of my works [**here**](gallery). I was selected as one of 20 finalists of the world-wide open creative brief "Design artwork inspired by Daniel Craig's Bond films". I also designed a theme poster for "Berlin Feminist Film Week at BATURU".
 
