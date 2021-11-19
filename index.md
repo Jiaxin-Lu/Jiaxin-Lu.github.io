@@ -27,7 +27,8 @@ Zetian Jiang&#42;, Jiaxin Lu&#42;, Tianzhe Wang, Junchi Yan
 
 *Submitted to T-PAMI*
 
-**Joint Graph Matching and Clustering with Majorization Minimization Optimization and Unsupervised Learning**
+**Joint Graph Matching and Clustering with Majorization-minimization
+Optimization and Edge-enhanced Unsupervised Learning**
 
 Jiaxin Lu, Zetian Jiang, Tianzhe Wang, Junchi Yan
 
