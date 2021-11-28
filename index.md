@@ -25,14 +25,14 @@ My research interests lie in **machine learning** algorithms, especially on **gr
 
 Zetian Jiang&#42;, Jiaxin Lu&#42;, Tianzhe Wang, Junchi Yan
 
-*Submitted to T-PAMI*
+*Submitted to T-PAMI, Under Review*
 
 **Joint Graph Matching and Clustering with Majorization-minimization
 Optimization and Edge-enhanced Unsupervised Learning**
 
 Jiaxin Lu, Zetian Jiang, Tianzhe Wang, Junchi Yan
 
-*Submitted to CVPR 2022*
+*Submitted to CVPR 2022, Under Review*
 
 # Research Experience
 
@@ -61,7 +61,7 @@ Jiaxin Lu, Zetian Jiang, Tianzhe Wang, Junchi Yan
     </tr>
     <tr>
         <td width="600">Academic Excellence Scholarship</td>
-        <td><i>2019, 2020</i></td>
+        <td><i>2019, 2020, 2021</i></td>
     </tr>
     <tr>
         <td width="600">Zhiyuan Leadership Scholarship</td>
@@ -72,6 +72,7 @@ Jiaxin Lu, Zetian Jiang, Tianzhe Wang, Junchi Yan
         <td><i>2017</i></td>
     </tr>
 </table>
+
 
 # Teaching Experience
 
