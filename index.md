@@ -83,7 +83,7 @@ Jiaxin Lu, Zetian Jiang, Tianzhe Wang, Junchi Yan
     </tr>
 </table>
 
-* Designed and prepared for the course assignments and projects on OOP.
+* Designed and prepared for the course assignments and projects on OOP for undergraduate students.
 
 <table frame="void" rules="none" border="0">
     <tr>
@@ -92,7 +92,7 @@ Jiaxin Lu, Zetian Jiang, Tianzhe Wang, Junchi Yan
     </tr>
 </table>
 
-* Gave lectures on algorithms and programming problems for students and prepare the course exams.
+* Gave lectures on algorithms and programming problems for undergraduate students and prepare the course exams.
 
 # Misc.
 
