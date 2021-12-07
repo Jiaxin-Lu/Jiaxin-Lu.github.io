@@ -78,19 +78,21 @@ Jiaxin Lu, Zetian Jiang, Tianzhe Wang, Junchi Yan
 
 <table frame="void" rules="none" border="0">
     <tr>
-        <td width="600"><b>Teaching Assistant of CS151: C++ Programming (Honor)</b></td>
+        <td width="600"><b>Teaching Assistant, C++ Programming (Honor) (SJTU CS151)</b></td>
         <td><i>Fall 2020</i></td>
     </tr>
 </table>
+
 
 * Designed and prepared for the course assignments and projects on OOP for undergraduate students.
 
 <table frame="void" rules="none" border="0">
     <tr>
-        <td width="600"><b>Teaching Assistant of CS151: C++ Programming (Honor)</b></td>
+        <td width="600"><b>Teaching Assistant, C++ Programming (Honor) (SJTU CS151)</b></td>
         <td><i>Fall 2019</i></td>
     </tr>
 </table>
+
 
 * Gave lectures on algorithms and programming problems for undergraduate students and prepare the course exams.
 
@@ -100,5 +102,5 @@ I am the runner and editor of the official account of our class 'ACMClass2018'. 
 
 I am a cinephile. My favorite directors includes Damien Chazelle, Agnès Varda, Paul Thomas Anderson, Wes Anderson, and many more. I am a member of student group 800 Movie Theater and hosted several salons and weekend theaters.
 
-I love graphic design and have designed many posters. You can find some of my works [**here**](gallery). I was selected as one of 20 finalists of the world-wide open creative brief "Design artwork inspired by Daniel Craig's Bond films". I also designed a theme poster for "Berlin Feminist Film Week at BATURU".
+I love graphic design and video editing. You can find some of my works [**here**](gallery). I was selected as one of 20 finalists of the world-wide open creative brief "Design artwork inspired by Daniel Craig's Bond films". I also designed a theme poster for "Berlin Feminist Film Week at BATURU".
 
