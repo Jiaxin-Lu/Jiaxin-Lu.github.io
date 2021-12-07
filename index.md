@@ -6,7 +6,7 @@ layout: about
 
 <br/>
 
-<p test-aligh='justify'><font size='3.5'>I am Jiaxin Lu (陆嘉馨), a final year undergraduate student (expected to graduate in July 2022) at <a href="https://acm.sjtu.edu.cn/home"><b>ACM Class</b></a> in Zhiyuan College (Honored Program), <a href="https://www.sjtu.edu.cn"><b>Shanghai Jiao Tong University</b></a>, advised by <a href="https://thinklab.sjtu.edu.cn/"><b>Prof. Junchi Yan</b></a> and <a href="http://apex.sjtu.edu.cn/members/yyu"><b>Prof. Yong Yu</b></a>. I am also a research intern advised by <a href="https://www.cs.utexas.edu/~huangqx/"><b>Prof. Qixing Huang</b></a> at University of Texas at Austin.</font></p>
+<p test-aligh='justify'><font size='3.5'>I am Jiaxin Lu (陆嘉馨), a final year undergraduate student (expected to graduate in June 2022) at <a href="https://acm.sjtu.edu.cn/home"><b>ACM Class</b></a> in Zhiyuan College (Honored Program), <a href="https://www.sjtu.edu.cn"><b>Shanghai Jiao Tong University</b></a>, advised by <a href="https://thinklab.sjtu.edu.cn/"><b>Prof. Junchi Yan</b></a> and <a href="http://apex.sjtu.edu.cn/members/yyu"><b>Prof. Yong Yu</b></a>. I am also a research intern advised by <a href="https://www.cs.utexas.edu/~huangqx/"><b>Prof. Qixing Huang</b></a> at University of Texas at Austin.</font></p>
 
 <p><font size='3.5'>Email: <b>lujiaxin AT sjtu DOT edu DOT cn</b> </font></p>
 
@@ -17,7 +17,7 @@ layout: about
 
 # Research Interests
 
-My research interests lie in **machine learning** algorithms, especially on **graph-structured data**. I am particularly interested in their applications on **computer graphic** and **computer vision**. I am currently working on mesh parameterization problem and graph matching problem.
+My research interests lie in **machine learning** algorithms, especially on **graph-structured data**. I am particularly interested in their applications on **computer graphics** and **computer vision**. I am currently working on mesh parameterization problem and graph matching problem.
 
 # Publication
 
