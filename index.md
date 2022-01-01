@@ -57,7 +57,7 @@ Jiaxin Lu, Zetian Jiang, Tianzhe Wang, Junchi Yan
     </tr>
     <tr>
     	<td width="600">Zhiyuan Honor Scholarship</td>
-    	<td><i>2018, 2019, 2020</i></td>
+    	<td><i>2018, 2019, 2020, 2021</i></td>
     </tr>
     <tr>
         <td width="600">Academic Excellence Scholarship</td>
@@ -72,6 +72,7 @@ Jiaxin Lu, Zetian Jiang, Tianzhe Wang, Junchi Yan
         <td><i>2017</i></td>
     </tr>
 </table>
+
 
 
 # Teaching Experience

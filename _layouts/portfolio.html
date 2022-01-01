@@ -33,6 +33,18 @@ layout: base
             {% endif %}
         </p>
       {% endif %}
+      {% if post.pdf %}
+      <span class="article__excerpt">
+        <a href="{{post.pdf}}">[<span Class="article__left_link">PDF</span>]</a>
+      </span>
+      {% else %}
+      {% endif %}
+      {% if post.code %}
+      <span class="article__excerpt">
+        <a href="{{post.code}}">[<span Class="article__left_link">CODE</span>]</a>
+      </span>
+      {% else %}
+      {% endif %}
     </article>
   {% endfor %}
 

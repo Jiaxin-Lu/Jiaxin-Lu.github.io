@@ -87,6 +87,26 @@
             font-size: 14px;
         }
 
+.article__left_link {
+  color: $default-color;
+  text-align: justify;
+  font-size: 14px;
+  text-transform: uppercase;
+  &:hover {
+    transition:all 0.5s ease-in;
+    -webkit-transition:all 0.5s ease-in;
+    color: var(--color-text);
+    text-decoration: underline;
+    // background: -webkit-gradient(linear,left top,right top,from(#d00606),to(#1c5dc1));
+    // background: linear-gradient(0deg,#d00606,#1c5dc1);
+    // -webkit-text-fill-color:transparent;
+    // text-shadow:none;
+    // -webkit-background-clip:text;
+    // -webkit-box-decoration-break:clone;
+    // box-decoration-break:clone;
+  }
+}
+
 .article__cover_thumbnail {
     display: -webkit-box;
     display: -ms-flexbox;
