@@ -40,13 +40,11 @@ Jiaxin Lu, Zetian Jiang, Tianzhe Wang, Junchi Yan
 
 * Research Intern, Advised by [**Prof. Qixing Huang**](https://www.cs.utexas.edu/~huangqx/)
 * Working on **conformal mesh parameterization** problem. 
-* One paper is planned to submit to *SIGGRAPH 2022*.
 
 **ThinkLab, Shanghai Jiao Tong University**, *July 2020 - Present*
 
 * Undergraduate Researcher, Advised by [**Prof. Junchi Yan**](https://thinklab.sjtu.edu.cn/)
 * Working on **graph matching** problems including partial matching problem, joint multi-graph matching and clustering problem, and deep learning graph matching.
-* One paper submitted to *CVPR 2022* as the first author, another paper submitted to *T-PAMI* as one of the first authors.
 
 # Awards
 
