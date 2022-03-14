@@ -27,12 +27,12 @@ Zetian Jiang&#42;, Jiaxin Lu&#42;, Tianzhe Wang, Junchi Yan
 
 *Submitted to T-PAMI, Under Review*
 
-**Joint Graph Matching and Clustering with Majorization-minimization
+**Joint Graph Matching and Clustering with Minorize-Maximization
 Optimization and Edge-enhanced Unsupervised Learning**
 
 Jiaxin Lu, Zetian Jiang, Tianzhe Wang, Junchi Yan
 
-*Submitted to CVPR 2022, Under Review*
+*Submitted to ECCV 2022, Under Review*
 
 # Research Experience
 
