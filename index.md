@@ -23,16 +23,16 @@ My research interests lie in **machine learning** algorithms, especially on **gr
 
 **Learning Universe Model for Partial Matching Networks over Multiple Graphs**
 
-Zetian Jiang&#42;, Jiaxin Lu&#42;, Tianzhe Wang, Junchi Yan
+[Zetian Jiang](https://sites.google.com/view/zetianjiang)&#42;, Jiaxin Lu&#42;, [Tianzhe Wang](https://sites.google.com/view/tianzhe-wang/home), [Junchi Yan](https://thinklab.sjtu.edu.cn/)
 
-*Submitted to T-PAMI, Under Review*
+*In Submission, Under Review*
 
 **Joint Graph Matching and Clustering with Minorize-Maximization
 Optimization and Edge-enhanced Unsupervised Learning**
 
-Jiaxin Lu, Zetian Jiang, Tianzhe Wang, Junchi Yan
+Jiaxin Lu, [Zetian Jiang](https://sites.google.com/view/zetianjiang), [Tianzhe Wang](https://sites.google.com/view/tianzhe-wang/home), [Junchi Yan](https://thinklab.sjtu.edu.cn/)
 
-*Submitted to ECCV 2022, Under Review*
+*In Submission, Under Review*
 
 # Research Experience
 
