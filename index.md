@@ -2,7 +2,7 @@
 layout: about
 ---
 
-<div><img align="left" src="assets\img\autumn.jpg" height="270" style="margin-right:50px;margin-left:40px;border:0px solid #eee;" /> </div>
+<div><img align="left" src="assets\img\spring.jpg" height="270" style="margin-right:50px;margin-left:40px;border:0px solid #eee;" /> </div>
 
 <br/>
 
