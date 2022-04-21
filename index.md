@@ -14,6 +14,8 @@ layout: about
 
 <br/>
 
+**[News]** I will be joining UT Austin as a PhD student starting 22Fall!
+
 
 # Research Interests
 
