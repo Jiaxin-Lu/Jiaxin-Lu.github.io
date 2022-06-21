@@ -52,16 +52,24 @@ Jiaxin Lu, [Zetian Jiang](https://sites.google.com/view/zetianjiang), [Tianzhe W
 
 <table frame="void" rules="none" border="0">
     <tr>
+        <td width="600">Best Bachelor Thesis (Top 1%), SJTU</td>
+        <td><i>2022</i></td>
+    </tr>
+    <tr>
+        <td width="600">Shanghai Excellent Graduate Award</td>
+        <td><i>2022</i></td>
+    </tr>
+    <tr>
+        <td width="600">Zhiyuan Outstanding Student Scholarship</td>
+        <td><i>2022</i></td>
+    </tr>
+    <tr>
         <td width="600">Shanghai Scholarship</td>
         <td><i>2021</i></td>
     </tr>
     <tr>
-    	<td width="600">Zhiyuan Honor Scholarship</td>
-    	<td><i>2018, 2019, 2020, 2021</i></td>
-    </tr>
-    <tr>
-        <td width="600">Academic Excellence Scholarship</td>
-        <td><i>2019, 2020, 2021</i></td>
+    	<td width="600">Zhiyuan Honorary Scholarship</td>
+    	<td><i>2018-2021</i></td>
     </tr>
     <tr>
         <td width="600">Zhiyuan Leadership Scholarship</td>
