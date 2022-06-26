@@ -14,6 +14,10 @@ layout: about
 
 <br/>
 
+**[News]** Graduated!!! I graduated with Zhiyuan Honor Degree of Bachelor of Engineering in Computer Science and Technology. I also won Shanghai Excellent Graduate Award and Zhiyuan Outstanding Student Scholarship.
+
+**[News]** My bachelor thesis **'Machine Learning Methods on Graph Matching'** is awarded the prize of 2022 Excellent Bachelor Thesis (Top 1%) of Shanghai Jiao Tong University.
+
 **[News]** I will be joining UT Austin as a PhD student starting 22Fall!
 
 
@@ -52,7 +56,7 @@ Jiaxin Lu, [Zetian Jiang](https://sites.google.com/view/zetianjiang), [Tianzhe W
 
 <table frame="void" rules="none" border="0">
     <tr>
-        <td width="600">Best Bachelor Thesis (Top 1%), SJTU</td>
+        <td width="600">Excellent Bachelor Thesis (Top 1%) of Shanghai Jiao Tong University</td>
         <td><i>2022</i></td>
     </tr>
     <tr>
