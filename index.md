@@ -6,9 +6,9 @@ layout: about
 
 <br/>
 
-<p test-aligh='justify'><font size='3.5'>I am Jiaxin Lu (陆嘉馨), a final year undergraduate student (expected to graduate in June 2022) at <a href="https://acm.sjtu.edu.cn/home"><b>ACM Class</b></a> in Zhiyuan College (Honored Program), <a href="https://www.sjtu.edu.cn"><b>Shanghai Jiao Tong University</b></a>, advised by <a href="https://thinklab.sjtu.edu.cn/"><b>Prof. Junchi Yan</b></a> and <a href="http://apex.sjtu.edu.cn/members/yyu"><b>Prof. Yong Yu</b></a>. I am also a research intern advised by <a href="https://www.cs.utexas.edu/~huangqx/"><b>Prof. Qixing Huang</b></a> at University of Texas at Austin.</font></p>
+<p test-aligh='justify'><font size='3.5'>I am Jiaxin Lu (陆嘉馨), an incoming PhD student at the University of Texas at Austin advised by <a href="https://www.cs.utexas.edu/~huangqx/"><b>Prof. Qixing Huang</b></a>. Prior to this, I received my Bachelor degree with honors from <a href="https://www.sjtu.edu.cn"><b>Shanghai Jiao Tong University</b></a> as a member of the <a href="https://acm.sjtu.edu.cn/home"><b>ACM Honors Class</b></a> advised by <a href="https://thinklab.sjtu.edu.cn/"><b>Prof. Junchi Yan</b></a> and <a href="http://apex.sjtu.edu.cn/members/yyu"><b>Prof. Yong Yu</b></a>.</font></p>
 
-<p><font size='3.5'>Email: <b>lujiaxin AT sjtu DOT edu DOT cn</b> </font></p>
+<p><font size='3.5'>Email: <b>lujiaxin AT utexas DOT edu</b> </font></p>
 
 <p><font size='3.5'>Please check out my <b><a href="Jiaxin_Lu_CV.pdf">CV</a></b> if you are interested.</font></p>
 
