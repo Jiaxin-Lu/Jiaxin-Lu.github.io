@@ -6,7 +6,7 @@ layout: about
 
 <br/>
 
-<p test-aligh='justify'><font size='3.5'>I am Jiaxin Lu (陆嘉馨), an incoming PhD student at the University of Texas at Austin advised by <a href="https://www.cs.utexas.edu/~huangqx/"><b>Prof. Qixing Huang</b></a>. Prior to this, I received my Bachelor degree with honors from <a href="https://www.sjtu.edu.cn"><b>Shanghai Jiao Tong University</b></a> as a member of the <a href="https://acm.sjtu.edu.cn/home"><b>ACM Honors Class</b></a> advised by <a href="https://thinklab.sjtu.edu.cn/"><b>Prof. Junchi Yan</b></a> and <a href="http://apex.sjtu.edu.cn/members/yyu"><b>Prof. Yong Yu</b></a>.</font></p>
+<p test-aligh='justify'><font size='3.5'>I am Jiaxin Lu (陆嘉馨), a first-year PhD student at the University of Texas at Austin advised by <a href="https://www.cs.utexas.edu/~huangqx/"><b>Prof. Qixing Huang</b></a>. Prior to this, I received my Bachelor degree with honors from <a href="https://www.sjtu.edu.cn"><b>Shanghai Jiao Tong University</b></a> as a member of the <a href="https://acm.sjtu.edu.cn/home"><b>ACM Honors Class</b></a> advised by <a href="https://thinklab.sjtu.edu.cn/"><b>Prof. Junchi Yan</b></a> and <a href="http://apex.sjtu.edu.cn/members/yyu"><b>Prof. Yong Yu</b></a>.</font></p>
 
 <p><font size='3.5'>Email: <b>lujiaxin AT utexas DOT edu</b> </font></p>
 
@@ -23,7 +23,7 @@ layout: about
 
 # Research Interests
 
-My research interests lie in **machine learning** algorithms, especially on **graph-structured data**. I am particularly interested in their applications on **computer graphics** and **computer vision**. I am currently working on mesh parameterization problem and graph matching problem.
+My research interests lie in **machine learning** algorithms, especially on **graph-structured data**. I am particularly interested in their applications on **computer graphics** and **computer vision**. I worked on mesh parameterization problem and graph matching problem.
 
 # Publication
 
@@ -31,10 +31,9 @@ My research interests lie in **machine learning** algorithms, especially on **gr
 
 [Zetian Jiang](https://sites.google.com/view/zetianjiang)&#42;, Jiaxin Lu&#42;, [Tianzhe Wang](https://sites.google.com/view/tianzhe-wang/home), [Junchi Yan](https://thinklab.sjtu.edu.cn/)
 
-*In Submission, Under Review*
+*In Submission, Under Review* [[arxiv](https://arxiv.org/abs/2210.10374)]
 
-**Joint Graph Matching and Clustering with Minorize-Maximization
-Optimization and Edge-enhanced Unsupervised Learning**
+**Convergent Joint Graph Matching and Clustering and Its Extension to Unsupervised Deep Graph Matching**
 
 Jiaxin Lu, [Zetian Jiang](https://sites.google.com/view/zetianjiang), [Tianzhe Wang](https://sites.google.com/view/tianzhe-wang/home), [Junchi Yan](https://thinklab.sjtu.edu.cn/)
 
@@ -47,7 +46,7 @@ Jiaxin Lu, [Zetian Jiang](https://sites.google.com/view/zetianjiang), [Tianzhe W
 * Research Intern, Advised by [**Prof. Qixing Huang**](https://www.cs.utexas.edu/~huangqx/)
 * Working on **conformal mesh parameterization** problem. 
 
-**ThinkLab, Shanghai Jiao Tong University**, *July 2020 - Present*
+**ThinkLab, Shanghai Jiao Tong University**, *July 2020 - August 2022*
 
 * Undergraduate Researcher, Advised by [**Prof. Junchi Yan**](https://thinklab.sjtu.edu.cn/)
 * Working on **graph matching** problems including partial matching problem, joint multi-graph matching and clustering problem, and deep learning graph matching.
