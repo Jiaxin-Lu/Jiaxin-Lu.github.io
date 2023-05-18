@@ -14,18 +14,24 @@ layout: about
 
 <br/>
 
+**[News]** I will join Wormpex AI Research Institute as a Research Intern advised by Dr. Gang Hua this summer.
+
 **[News]** Graduated!!! I graduated with Zhiyuan Honor Degree of Bachelor of Engineering in Computer Science and Technology. I also won Shanghai Excellent Graduate Award and Zhiyuan Outstanding Student Scholarship.
 
 **[News]** My bachelor thesis **'Machine Learning Methods on Graph Matching'** is awarded the prize of 2022 Excellent Bachelor Thesis (Top 1%) of Shanghai Jiao Tong University.
 
-**[News]** I will be joining UT Austin as a PhD student starting 22Fall!
-
 
 # Research Interests
 
-My research interests lie in the **machine learning** algorithms. I am particularly interested in their applications on **computer graphics** and **computer vision**. I am also interested in using **geometry processing** techniques to develop better machine learning algorithms. I am currently working on a project using geometric property to study the robustness and generalization ability of learning models. I worked on mesh parameterization and graph matching problems during my undergraduate studies.
+My research interests lie in the **machine learning** algorithms. I am particularly interested in their applications on **computer graphics** and **computer vision**. I am currently working on learning for 3D fracture assembly problem. I worked on mesh parameterization and graph matching problems during my undergraduate studies.
 
 # Publication
+
+**Jigsaw: Learning to Assemble Multiple Fractured Objects**
+
+Jiaxin Lu&#42;, Yifan Sun&#42;, Qixing Huang
+
+*In Submission, Under Review*
 
 **Learning Universe Model for Partial Matching Networks over Multiple Graphs**
 
@@ -41,7 +47,7 @@ Jiaxin Lu, [Zetian Jiang](https://sites.google.com/view/zetianjiang), [Tianzhe W
 
 # Research Experience
 
-**Department of Computer Science, University of Texas at Austin**, *May 2021 - Present*
+**Department of Computer Science, University of Texas at Austin**, *May 2021 - February 2022*
 
 * Research Intern, Advised by [**Prof. Qixing Huang**](https://www.cs.utexas.edu/~huangqx/)
 * Working on **conformal mesh parameterization** problem. 
@@ -90,23 +96,24 @@ Jiaxin Lu, [Zetian Jiang](https://sites.google.com/view/zetianjiang), [Tianzhe W
 
 <table frame="void" rules="none" border="0">
     <tr>
-        <td width="600"><b>Teaching Assistant, C++ Programming (Honor) (SJTU CS151)</b></td>
-        <td><i>Fall 2020</i></td>
+        <td width="600"><b>Teaching Assistant, CS376: Computer Vision, UT Austin</b></td>
+        <td><i>Spring 2023</i></td>
     </tr>
 </table>
-
-
-* Designed and prepared for the course assignments and projects on OOP for undergraduate students.
 
 <table frame="void" rules="none" border="0">
     <tr>
-        <td width="600"><b>Teaching Assistant, C++ Programming (Honor) (SJTU CS151)</b></td>
-        <td><i>Fall 2019</i></td>
+        <td width="600"><b>Teaching Assistant, CS303E: Elements of Programming, UT Austin</b></td>
+        <td><i>Fall 2022</i></td>
     </tr>
 </table>
 
-
-* Gave lectures on algorithms and programming problems for undergraduate students and prepare the course exams.
+<table frame="void" rules="none" border="0">
+    <tr>
+        <td width="600"><b>Teaching Assistant, CS151: C++ Programming (Honor), SJTU</b></td>
+        <td><i>Fall 2020, 2019</i></td>
+    </tr>
+</table>
 
 # Misc.
 
