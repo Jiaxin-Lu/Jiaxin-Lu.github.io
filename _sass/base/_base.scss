@@ -78,3 +78,27 @@ img {
 td {
   vertical-align: top;
 }
+
+
+::-webkit-scrollbar{
+  width: 8px;
+  background-color: #EEE;
+}
+::-webkit-scrollbar-track{
+  background-color: #EEE;
+}
+::-webkit-scrollbar-thumb{
+  border-radius: 5px;
+  background-color: #AAA;
+}
+.sideBar{
+  width: 800px;
+  height: 100px;
+  overflow: hidden;
+  .sideBarSlim{
+    width: 800px;
+    height: 100px;
+    overflow-y: auto;
+    overflow-x: hidden;
+  }
+}

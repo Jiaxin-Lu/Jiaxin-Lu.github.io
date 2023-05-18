@@ -14,11 +14,27 @@ layout: about
 
 <br/>
 
-**[News]** I will join Wormpex AI Research Institute as a Research Intern advised by Dr. Gang Hua this summer.
-
-**[News]** Graduated!!! I graduated with Zhiyuan Honor Degree of Bachelor of Engineering in Computer Science and Technology. I also won Shanghai Excellent Graduate Award and Zhiyuan Outstanding Student Scholarship.
-
-**[News]** My bachelor thesis **'Machine Learning Methods on Graph Matching'** is awarded the prize of 2022 Excellent Bachelor Thesis (Top 1%) of Shanghai Jiao Tong University.
+# News
+<div style="overflow-y:auto; max-height:200px;">
+<table frame="void" rules="none" border="0">
+    <tr>
+        <td width="100"><b>May 2023</b></td>
+        <td>I will join Wormpex AI Research Institute as a Research Intern advised by Dr. Gang Hua this summer.</td>
+    </tr>
+    <tr>
+        <td width="100"><b>Jun 2022</b></td>
+        <td>Graduated!!! I graduated with Zhiyuan Honor Degree of Bachelor of Engineering in Computer Science and Technology. I also won Shanghai Excellent Graduate Award and Zhiyuan Outstanding Student Scholarship.</td>
+    </tr>
+    <tr>
+        <td width="100"><b>Jun 2022</b></td>
+        <td>My bachelor thesis <b>'Machine Learning Methods on Graph Matching'</b> is awarded the prize of 2022 Excellent Bachelor Thesis (Top 1%) of Shanghai Jiao Tong University. <a href="https://sjcg.jwc.sjtu.edu.cn/481/2022/2022/Dissertation.html">Dissertation</a> and <a href="https://sjcg.jwc.sjtu.edu.cn/481/29/29/Video.html">video</a> are available (in Chinese)! </td>
+    </tr>
+    <tr>
+        <td width="100"><b>Mar 2022</b></td>
+        <td>I will be joining UT Austin as a PhD student starting 22Fall!</td>
+    </tr>
+</table>
+</div>
 
 
 # Research Interests
@@ -29,7 +45,7 @@ My research interests lie in the **machine learning** algorithms. I am particula
 
 **Jigsaw: Learning to Assemble Multiple Fractured Objects**
 
-Jiaxin Lu&#42;, Yifan Sun&#42;, Qixing Huang
+Jiaxin Lu&#42;, [Yifan Sun](https://yifansun12.wixsite.com/mysite)&#42;, [Qixing Huang](https://www.cs.utexas.edu/~huangqx/)
 
 *In Submission, Under Review*
 
@@ -63,6 +79,9 @@ Jiaxin Lu, [Zetian Jiang](https://sites.google.com/view/zetianjiang), [Tianzhe W
     <tr>
         <td width="600">Excellent Bachelor Thesis (Top 1%) of Shanghai Jiao Tong University</td>
         <td><i>2022</i></td>
+    </tr>
+    <tr>
+        <td width="600"> <b>Machine Learning Methods on Graph Matching</b>[<a href="https://sjcg.jwc.sjtu.edu.cn/481/2022/2022/Dissertation.html">Dissertation</a>][<a href="https://sjcg.jwc.sjtu.edu.cn/481/29/29/Video.html">Video</a>]</td>
     </tr>
     <tr>
         <td width="600">Shanghai Excellent Graduate Award</td>
