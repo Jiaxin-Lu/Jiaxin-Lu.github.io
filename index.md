@@ -19,7 +19,7 @@ layout: about
 <table frame="void" rules="none" border="0">
     <tr>
         <td width="100"><b>May 2023</b></td>
-        <td>I will join Wormpex AI Research Institute as a Research Intern advised by Dr. Gang Hua this summer.</td>
+        <td>I will join Wormpex AI Research Institute as a Research Intern advised by <a href="https://www.ganghua.org"><b>Dr. Gang Hua</b></a> this summer.</td>
     </tr>
     <tr>
         <td width="100"><b>Jun 2022</b></td>
@@ -47,7 +47,7 @@ My research interests lie in the **machine learning** algorithms. I am particula
 
 Jiaxin Lu&#42;, [Yifan Sun](https://yifansun12.wixsite.com/mysite)&#42;, [Qixing Huang](https://www.cs.utexas.edu/~huangqx/)
 
-*In Submission, Under Review*
+*In Submission, Under Review* [[arxiv](https://arxiv.org/abs/2305.17975)]
 
 **Learning Universe Model for Partial Matching Networks over Multiple Graphs**
 
