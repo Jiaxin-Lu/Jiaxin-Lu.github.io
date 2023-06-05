@@ -1,4 +1,13 @@
 <head>
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-RPGTPDL4XL"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-RPGTPDL4XL');
+  </script>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
@@ -14,7 +23,7 @@
   <!-- Favicon -->
   <link rel="icon" type="image/png" sizes="16x16" href="{{ "/assets/favicon.ico" | relative_url }}">
 
-  <!-- Google Analytics -->
+<!--   <!-- Google Analytics -->
   {% if site.google_analytics %}
   <script>
       (function(i, s, o, g, r, a, m) {
@@ -33,6 +42,6 @@
       ga('send', 'pageview');
 
   </script>
-  {% endif %}
+  {% endif %} -->
 
 </head>
