@@ -2,7 +2,7 @@
 layout: about
 ---
 
-<div><img align="left" src="assets\img\spring.jpg" height="270" style="margin-right:50px;margin-left:40px;border:0px solid #eee;" /> </div>
+<div><img align="left" src="assets\img\conference.jpg" height="270" style="margin-right:50px;margin-left:40px;border:0px solid #eee;" /> </div>
 
 <br/>
 
@@ -39,7 +39,7 @@ layout: about
 
 # Research Interests
 
-My research interests lie in the **machine learning** algorithms. I am particularly interested in their applications on **computer graphics** and **computer vision**. I am currently working on learning for 3D fracture assembly problem. I worked on mesh parameterization and graph matching problems during my undergraduate studies.
+My research interests lie at the intersection of **computer vision**, **computer graphics**, and **machine learning**, with a focus on addressing challenges related to 3D object geometric analysis. Currently, my research focuses on the 3D fracture assembly problem and dexterous grasp generation. With a background in graph matching and mesh parameterization, I aim to develop algorithms that enable efficient and accurate representation for 3D world.
 
 # Publication
 
@@ -47,13 +47,13 @@ My research interests lie in the **machine learning** algorithms. I am particula
 
 Jiaxin Lu&#42;, [Yifan Sun](https://yifansun12.wixsite.com/mysite)&#42;, [Qixing Huang](https://www.cs.utexas.edu/~huangqx/)
 
-*In Submission, Under Review* [[arxiv](https://arxiv.org/abs/2305.17975)]
+*NeurIPS 2023* [[arxiv](https://arxiv.org/abs/2305.17975)][[project](https://jiaxin-lu.github.io/Jigsaw/)]
 
 **Learning Universe Model for Partial Matching Networks over Multiple Graphs**
 
 [Zetian Jiang](https://sites.google.com/view/zetianjiang)&#42;, Jiaxin Lu&#42;, [Tianzhe Wang](https://sites.google.com/view/tianzhe-wang/home), [Junchi Yan](https://thinklab.sjtu.edu.cn/)
 
-*In Submission, Under Review* [[arxiv](https://arxiv.org/abs/2210.10374)]
+*Submitted to TPAMI, Under Review* [[arxiv](https://arxiv.org/abs/2210.10374)]
 
 **Convergent Joint Graph Matching and Clustering and Its Extension to Unsupervised Deep Graph Matching**
 
@@ -116,7 +116,7 @@ Jiaxin Lu, [Zetian Jiang](https://sites.google.com/view/zetianjiang), [Tianzhe W
 <table frame="void" rules="none" border="0">
     <tr>
         <td width="600"><b>Teaching Assistant, CS376: Computer Vision, UT Austin</b></td>
-        <td><i>Spring 2023</i></td>
+        <td><i>Spring 2023, Fall 2023</i></td>
     </tr>
 </table>
 
@@ -135,8 +135,6 @@ Jiaxin Lu, [Zetian Jiang](https://sites.google.com/view/zetianjiang), [Tianzhe W
 </table>
 
 # Misc.
-
-I am the runner and editor of the official account of our class 'ACMClass2018'. I am also a member of student organizing team of ACM-Class Student Academic Festival 2021.
 
 I am a cinephile. My favorite directors includes Damien Chazelle, Agnès Varda, Paul Thomas Anderson, Wes Anderson, and many more. I am a member of student group 800 Movie Theater and hosted several salons and weekend theaters.
 

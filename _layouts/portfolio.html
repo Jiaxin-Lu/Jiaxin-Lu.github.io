@@ -2,12 +2,17 @@
 layout: base 
 ---
 {% for post in site.posts limit:10 %}
-    <article class="article">
+      {% if post.link %}
+        {% assign link = post.link %}
+      {% else %}
+        {% assign link = post.url | prepend: site.baseurl  %}
+      {% endif %}
+      <article class="article">
       <h2 class="article__title">
-        <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a> 
+        <a href="{{link}}">{{ post.title }}</a> 
       </h2>
       {% if post.cover_display %}
-        <a class="article__cover_thumbnail" href="{{ post.url | prepend: site.baseurl }}">
+        <a class="article__cover_thumbnail" href="{{link}}">
             <div class="article_cover_desc">
               <p class="article__author">
                 {{ post.author }}
