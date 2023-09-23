@@ -18,6 +18,10 @@ layout: about
 <div style="overflow-y:auto; max-height:200px;">
 <table frame="void" rules="none" border="0">
     <tr>
+        <td width="100"><b>Sept 2023</b></td>
+        <td>One paper "Jigsaw: Learning to Assemble Multiple Fractured Objects" accepted by <b>NeurIPS 2023</b>!</td>
+    </tr>
+    <tr>
         <td width="100"><b>May 2023</b></td>
         <td>I will join Wormpex AI Research Institute as a Research Intern advised by <a href="https://www.ganghua.org"><b>Dr. Gang Hua</b></a> this summer.</td>
     </tr>
