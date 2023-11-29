@@ -47,6 +47,12 @@ My research interests lie at the intersection of **computer vision**, **computer
 
 # Publication
 
+**UGG: Unified Generative Grasping**
+
+Jiaxin Lu, Hao Kang, [Haoxiang Li](https://blog.haoxiang.org/haoxiang.html), Bo Liu, Yiding Yang, [Qixing Huang](https://www.cs.utexas.edu/~huangqx/), [Gang Hua](https://www.ganghua.org/)
+
+*In Submission, Under Review* [[arxiv](https://arxiv.org/abs/2311.16917)][[project](https://jiaxin-lu.github.io/ugg/)]
+
 **Jigsaw: Learning to Assemble Multiple Fractured Objects**
 
 Jiaxin Lu&#42;, [Yifan Sun](https://yifansun12.wixsite.com/mysite)&#42;, [Qixing Huang](https://www.cs.utexas.edu/~huangqx/)
@@ -59,11 +65,11 @@ Jiaxin Lu&#42;, [Yifan Sun](https://yifansun12.wixsite.com/mysite)&#42;, [Qixing
 
 *Submitted to TPAMI, Under Review* [[arxiv](https://arxiv.org/abs/2210.10374)]
 
-**Convergent Joint Graph Matching and Clustering and Its Extension to Unsupervised Deep Graph Matching**
+**M3C: A Framework towards Convergent, Flexible, and Unsupervised Learning of Mixture Graph Matching and Clustering**
 
-Jiaxin Lu, [Zetian Jiang](https://sites.google.com/view/zetianjiang), [Tianzhe Wang](https://sites.google.com/view/tianzhe-wang/home), [Junchi Yan](https://thinklab.sjtu.edu.cn/)
+Jiaxin Lu&#42;, [Zetian Jiang](https://sites.google.com/view/zetianjiang)&#42;, [Tianzhe Wang](https://sites.google.com/view/tianzhe-wang/home), [Junchi Yan](https://thinklab.sjtu.edu.cn/)
 
-*In Submission, Under Review*
+*In Submission, Under Review* [[arxiv](https://arxiv.org/abs/2310.18444)]
 
 # Research Experience
 
