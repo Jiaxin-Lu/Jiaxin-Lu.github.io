@@ -18,6 +18,10 @@ layout: about
 <div style="overflow-y:auto; max-height:200px;">
 <table frame="void" rules="none" border="0">
     <tr>
+        <td width="100"><b>Jan 2024</b></td>
+        <td>One paper "M3C: A Framework towards Convergent, Flexible, and Unsupervised Learning of Mixture Graph Matching and Clustering" accepted by <b>ICLR 2024</b>!</td>
+    </tr>
+    <tr>
         <td width="100"><b>Sept 2023</b></td>
         <td>One paper "Jigsaw: Learning to Assemble Multiple Fractured Objects" accepted by <b>NeurIPS 2023</b>!</td>
     </tr>
@@ -43,7 +47,7 @@ layout: about
 
 # Research Interests
 
-My research interests lie at the intersection of **computer vision**, **computer graphics**, and **machine learning**, with a focus on addressing challenges related to 3D object geometric analysis. Currently, my research focuses on the 3D fracture assembly problem and dexterous grasp generation. With a background in graph matching and mesh parameterization, I aim to develop algorithms that enable efficient and accurate representation for 3D world.
+My research interests lie at the intersection of **computer vision**, **computer graphics**, and **machine learning**, with a specific emphasis on alingment and interaction analysis. I have explored diverse research topics, ranging from generative model for hand-object interaction, 3D fracture assembly problem, and graph matching problems, aiming to develop algorithms that enable efficient and accurate representation for 3D world.
 
 # Publication
 
@@ -69,7 +73,7 @@ Jiaxin Lu&#42;, [Yifan Sun](https://yifansun12.wixsite.com/mysite)&#42;, [Qixing
 
 Jiaxin Lu&#42;, [Zetian Jiang](https://sites.google.com/view/zetianjiang)&#42;, [Tianzhe Wang](https://sites.google.com/view/tianzhe-wang/home), [Junchi Yan](https://thinklab.sjtu.edu.cn/)
 
-*In Submission, Under Review* [[arxiv](https://arxiv.org/abs/2310.18444)]
+*ICLR 2024* [[arxiv](https://arxiv.org/abs/2310.18444)]
 
 # Research Experience
 
@@ -123,23 +127,32 @@ Jiaxin Lu&#42;, [Zetian Jiang](https://sites.google.com/view/zetianjiang)&#42;, 
 
 # Teaching Experience
 
+### Current at the University of Texas at Austin
 <table frame="void" rules="none" border="0">
     <tr>
-        <td width="600"><b>Teaching Assistant, CS376: Computer Vision, UT Austin</b></td>
+        <td width="600"><b>Teaching Assistant, CS395T: Numerical Optimization Graphics/AI</b></td>
+        <td><i>Spring 2024</i></td>
+    </tr>
+</table>
+
+<table frame="void" rules="none" border="0">
+    <tr>
+        <td width="600"><b>Teaching Assistant, CS376: Computer Vision</b></td>
         <td><i>Spring 2023, Fall 2023</i></td>
     </tr>
 </table>
 
 <table frame="void" rules="none" border="0">
     <tr>
-        <td width="600"><b>Teaching Assistant, CS303E: Elements of Programming, UT Austin</b></td>
+        <td width="600"><b>Teaching Assistant, CS303E: Elements of Programming</b></td>
         <td><i>Fall 2022</i></td>
     </tr>
 </table>
 
+### Past at Shanghai Jiao Tong University
 <table frame="void" rules="none" border="0">
     <tr>
-        <td width="600"><b>Teaching Assistant, CS151: C++ Programming (Honor), SJTU</b></td>
+        <td width="600"><b>Teaching Assistant, CS151: C++ Programming (Honor)</b></td>
         <td><i>Fall 2020, 2019</i></td>
     </tr>
 </table>
