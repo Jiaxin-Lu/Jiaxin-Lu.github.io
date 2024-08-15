@@ -18,6 +18,14 @@ layout: about
 <div style="overflow-y:auto; max-height:200px;">
 <table frame="void" rules="none" border="0">
     <tr>
+        <td width="100"><b>July 2024</b></td>
+        <td>One paper "UGG: Unified Generative Grasping" accepted by <b>ECCV 2024</b> as <b>Oral</b>!</td>
+    </tr>
+    <tr>
+        <td width="100"><b>May 2024</b></td>
+        <td>I will join Adobe Research as a Research Intern advised by <a href="https://zhouyisjtu.github.io/"><b>Dr. Yi Zhou</b></a> this summer!</td>
+    </tr>
+    <tr>
         <td width="100"><b>Jan 2024</b></td>
         <td>One paper "M3C: A Framework towards Convergent, Flexible, and Unsupervised Learning of Mixture Graph Matching and Clustering" accepted by <b>ICLR 2024</b>!</td>
     </tr>
@@ -55,13 +63,13 @@ My research interests lie at the intersection of **computer vision**, **computer
 
 Jiaxin Lu, Hao Kang, [Haoxiang Li](https://blog.haoxiang.org/haoxiang.html), Bo Liu, Yiding Yang, [Qixing Huang](https://www.cs.utexas.edu/~huangqx/), [Gang Hua](https://www.ganghua.org/)
 
-*In Submission, Under Review* [[arxiv](https://arxiv.org/abs/2311.16917)][[project](https://jiaxin-lu.github.io/ugg/)]
+*ECCV 2024* [[arxiv](https://arxiv.org/abs/2311.16917)][[project](https://jiaxin-lu.github.io/ugg/)][[code](https://github.com/Jiaxin-Lu/ugg)]
 
 **Jigsaw: Learning to Assemble Multiple Fractured Objects**
 
 Jiaxin Lu&#42;, [Yifan Sun](https://yifansun12.wixsite.com/mysite)&#42;, [Qixing Huang](https://www.cs.utexas.edu/~huangqx/)
 
-*NeurIPS 2023* [[arxiv](https://arxiv.org/abs/2305.17975)][[project](https://jiaxin-lu.github.io/Jigsaw/)]
+*NeurIPS 2023* [[arxiv](https://arxiv.org/abs/2305.17975)][[project](https://jiaxin-lu.github.io/Jigsaw/)][[code](https://github.com/Jiaxin-Lu/Jigsaw)]
 
 **Learning Universe Model for Partial Matching Networks over Multiple Graphs**
 
