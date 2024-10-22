@@ -59,6 +59,19 @@ My research interests lie at the intersection of **computer vision**, **computer
 
 # Publication
 
+**Jigsaw++: Imagining Complete Shape Priors for Object Reassembly**
+
+Jiaxin Lu, [Gang Hua](https://www.ganghua.org/), [Qixing Huang](https://www.cs.utexas.edu/~huangqx/)
+
+*Under Review* [[arxiv](https://arxiv.org/abs/2410.11816)]
+
+**A Survey on Computational Solutions for Reconstructing Complete Objects by Reassembling Their Fractured Parts**
+
+Jiaxin Lu&#42;, Yongqing Liang&#42;, Huijun Han&#42;, Jiacheng Hua&#42;, Junfeng Jiang, Xin Li, [Qixing Huang](https://www.cs.utexas.edu/~huangqx/)
+
+*Under Review* [[arxiv](https://arxiv.org/abs/2410.14770)]
+
+
 **UGG: Unified Generative Grasping**
 
 Jiaxin Lu, Hao Kang, [Haoxiang Li](https://blog.haoxiang.org/haoxiang.html), Bo Liu, Yiding Yang, [Qixing Huang](https://www.cs.utexas.edu/~huangqx/), [Gang Hua](https://www.ganghua.org/)
@@ -75,7 +88,7 @@ Jiaxin Lu&#42;, [Yifan Sun](https://yifansun12.wixsite.com/mysite)&#42;, [Qixing
 
 [Zetian Jiang](https://sites.google.com/view/zetianjiang)&#42;, Jiaxin Lu&#42;, [Tianzhe Wang](https://sites.google.com/view/tianzhe-wang/home), [Junchi Yan](https://thinklab.sjtu.edu.cn/)
 
-*Submitted to TPAMI, Under Review* [[arxiv](https://arxiv.org/abs/2210.10374)]
+*Under Review* [[arxiv](https://arxiv.org/abs/2210.10374)]
 
 **M3C: A Framework towards Convergent, Flexible, and Unsupervised Learning of Mixture Graph Matching and Clustering**
 
@@ -85,15 +98,25 @@ Jiaxin Lu&#42;, [Zetian Jiang](https://sites.google.com/view/zetianjiang)&#42;, 
 
 # Research Experience
 
+**Adobe**, *May 2024 - present*
+
+* Intern Research Scientist/Engineer, Advised by [**Dr. Yi Zhou**](https://zhouyisjtu.github.io/)
+* Working on generative model and data collection for human-object interaction.
+
+**Wormpex AI Research**, *May 2023 - August 2023*
+
+* Research Intern, Advised by [**Dr. Gang Hua**](https://www.ganghua.org/)
+* Working on grasp and hand-object interaction generation.
+
 **Department of Computer Science, University of Texas at Austin**, *May 2021 - February 2022*
 
 * Research Intern, Advised by [**Prof. Qixing Huang**](https://www.cs.utexas.edu/~huangqx/)
-* Working on **conformal mesh parameterization** problem. 
+* Working on conformal mesh parameterization problem. 
 
 **ThinkLab, Shanghai Jiao Tong University**, *July 2020 - August 2022*
 
 * Undergraduate Researcher, Advised by [**Prof. Junchi Yan**](https://thinklab.sjtu.edu.cn/)
-* Working on **graph matching** problems including partial matching problem, joint multi-graph matching and clustering problem, and deep learning graph matching.
+* Working on graph matching problems including partial matching problem, joint multi-graph matching and clustering problem, and deep learning graph matching.
 
 # Awards
 
@@ -164,6 +187,12 @@ Jiaxin Lu&#42;, [Zetian Jiang](https://sites.google.com/view/zetianjiang)&#42;, 
         <td><i>Fall 2020, 2019</i></td>
     </tr>
 </table>
+
+# Services
+
+**Conference Reviewer:** NeurIPS, ICLR, ECCV, 3DV, EG, PG
+
+**Journal Reviewer:** TPAMI, IJCV
 
 # Misc.
 
