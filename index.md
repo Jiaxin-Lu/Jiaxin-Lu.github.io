@@ -18,6 +18,14 @@ layout: about
 <div style="overflow-y:auto; max-height:200px;">
 <table frame="void" rules="none" border="0">
     <tr>
+        <td width="100"><b>Jan 2025</b></td>
+        <td>One paper "Learning Structured Universe Graph with Outlier OOD Detection for Partial Matching" accepted by <b>ICLR 2025</b>!</td>
+    </tr>
+    <tr>
+        <td width="100"><b>Dec 2024</b></td>
+        <td>Our survey on fractured object reassembly is conditionally accepted by <b>Eurographics STAR</b>!</td>
+    </tr>
+    <tr>
         <td width="100"><b>July 2024</b></td>
         <td>One paper "UGG: Unified Generative Grasping" accepted by <b>ECCV 2024</b> as <b>Oral</b>!</td>
     </tr>
@@ -63,13 +71,13 @@ My research interests lie at the intersection of **computer vision**, **computer
 
 Jiaxin Lu, [Gang Hua](https://www.ganghua.org/), [Qixing Huang](https://www.cs.utexas.edu/~huangqx/)
 
-*Under Review* [[arxiv](https://arxiv.org/abs/2410.11816)]
+[[arxiv](https://arxiv.org/abs/2410.11816)]
 
 **A Survey on Computational Solutions for Reconstructing Complete Objects by Reassembling Their Fractured Parts**
 
 Jiaxin Lu&#42;, Yongqing Liang&#42;, Huijun Han&#42;, Jiacheng Hua&#42;, Junfeng Jiang, Xin Li, [Qixing Huang](https://www.cs.utexas.edu/~huangqx/)
 
-*Under Review* [[arxiv](https://arxiv.org/abs/2410.14770)]
+*Eurographics STAR* [[arxiv](https://arxiv.org/abs/2410.14770)]
 
 
 **UGG: Unified Generative Grasping**
@@ -84,11 +92,11 @@ Jiaxin Lu&#42;, [Yifan Sun](https://yifansun12.wixsite.com/mysite)&#42;, [Qixing
 
 *NeurIPS 2023* [[arxiv](https://arxiv.org/abs/2305.17975)][[project](https://jiaxin-lu.github.io/Jigsaw/)][[code](https://github.com/Jiaxin-Lu/Jigsaw)]
 
-**Learning Universe Model for Partial Matching Networks over Multiple Graphs**
+**Learning Structured Universe Graph with Outlier OOD Detection for Partial Matching**
 
-[Zetian Jiang](https://sites.google.com/view/zetianjiang)&#42;, Jiaxin Lu&#42;, [Tianzhe Wang](https://sites.google.com/view/tianzhe-wang/home), [Junchi Yan](https://thinklab.sjtu.edu.cn/)
+[Zetian Jiang](https://sites.google.com/view/zetianjiang)&#42;, Jiaxin Lu&#42;, Haizhao Fan, [Tianzhe Wang](https://sites.google.com/view/tianzhe-wang/home), [Junchi Yan](https://thinklab.sjtu.edu.cn/)
 
-*Under Review* [[arxiv](https://arxiv.org/abs/2210.10374)]
+*ICLR 2025* [[pdf](https://openreview.net/pdf?id=dmjQLHufev)]
 
 **M3C: A Framework towards Convergent, Flexible, and Unsupervised Learning of Mixture Graph Matching and Clustering**
 
@@ -121,6 +129,10 @@ Jiaxin Lu&#42;, [Zetian Jiang](https://sites.google.com/view/zetianjiang)&#42;, 
 # Awards
 
 <table frame="void" rules="none" border="0">
+    <tr>
+        <td width="600">Pandey Trinity Graduate Fellowship</td>
+        <td><i>2025</i></td>
+    </tr>
     <tr>
         <td width="600">Excellent Bachelor Thesis (Top 1%) of Shanghai Jiao Tong University</td>
         <td><i>2022</i></td>
@@ -161,6 +173,13 @@ Jiaxin Lu&#42;, [Zetian Jiang](https://sites.google.com/view/zetianjiang)&#42;, 
 ### Current at the University of Texas at Austin
 <table frame="void" rules="none" border="0">
     <tr>
+        <td width="600"><b>Teaching Assistant, CS 378: Generative Visual Computing</b></td>
+        <td><i>Spring 2025</i></td>
+    </tr>
+</table>
+
+<table frame="void" rules="none" border="0">
+    <tr>
         <td width="600"><b>Teaching Assistant, CS395T: Numerical Optimization Graphics/AI</b></td>
         <td><i>Spring 2024</i></td>
     </tr>
@@ -190,7 +209,7 @@ Jiaxin Lu&#42;, [Zetian Jiang](https://sites.google.com/view/zetianjiang)&#42;, 
 
 # Services
 
-**Conference Reviewer:** NeurIPS, ICLR, ECCV, 3DV, EG, PG
+**Conference Reviewer:** CVPR, ECCV, NeurIPS, ICLR, 3DV, EG, PG
 
 **Journal Reviewer:** TPAMI, IJCV
 
