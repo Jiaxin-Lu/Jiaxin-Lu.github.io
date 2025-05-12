@@ -67,6 +67,12 @@ My research interests lie at the intersection of **computer vision**, **computer
 
 # Publication
 
+**HUMOTO: A 4D Dataset of Mocap Human Object Interactions**
+
+Jiaxin Lu, [Chun-Hao Paul Huang](https://paulchhuang.wixsite.com/chhuang), [Uttaran Bhattacharya](https://uttaranb127.github.io/), [Qixing Huang](https://www.cs.utexas.edu/~huangqx/), [Yi Zhou](https://zhouyisjtu.github.io/)
+
+[[arxiv](https://arxiv.org/abs/2504.10414)][[project](https://jiaxin-lu.github.io/humoto/)]
+
 **Jigsaw++: Imagining Complete Shape Priors for Object Reassembly**
 
 Jiaxin Lu, [Gang Hua](https://www.ganghua.org/), [Qixing Huang](https://www.cs.utexas.edu/~huangqx/)
@@ -106,7 +112,7 @@ Jiaxin Lu&#42;, [Zetian Jiang](https://sites.google.com/view/zetianjiang)&#42;, 
 
 # Research Experience
 
-**Adobe**, *May 2024 - present*
+**Adobe**, *May 2024 - April 2025*
 
 * Intern Research Scientist/Engineer, Advised by [**Dr. Yi Zhou**](https://zhouyisjtu.github.io/)
 * Working on generative model and data collection for human-object interaction.
@@ -209,9 +215,9 @@ Jiaxin Lu&#42;, [Zetian Jiang](https://sites.google.com/view/zetianjiang)&#42;, 
 
 # Services
 
-**Conference Reviewer:** CVPR, ECCV, NeurIPS, ICLR, 3DV, EG, PG
+**Conference Reviewer:** CVPR, ECCV, ICCV, NeurIPS, ICLR, ICML, AAAI, 3DV, EG, PG
 
-**Journal Reviewer:** TPAMI, IJCV
+**Journal Reviewer:** TPAMI, IJCV, TVCG
 
 # Misc.
 
