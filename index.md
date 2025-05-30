@@ -18,6 +18,10 @@ layout: about
 <div style="overflow-y:auto; max-height:200px;">
 <table frame="void" rules="none" border="0">
     <tr>
+        <td width="100"><b>May 2025</b></td>
+        <td>I will visit Stanford working with <a href="https://yfeng95.github.io/"><b>Dr. Yao Feng</b></a> and <a href="https://tml.stanford.edu/people/karen-liu"><b>Dr. Karen Liu</b></a> on Humanoid AI this summer!</td>
+    </tr>
+    <tr>
         <td width="100"><b>Jan 2025</b></td>
         <td>One paper "Learning Structured Universe Graph with Outlier OOD Detection for Partial Matching" accepted by <b>ICLR 2025</b>!</td>
     </tr>
@@ -102,7 +106,11 @@ Jiaxin Lu&#42;, [Yifan Sun](https://yifansun12.wixsite.com/mysite)&#42;, [Qixing
 
 [Zetian Jiang](https://sites.google.com/view/zetianjiang)&#42;, Jiaxin Lu&#42;, Haizhao Fan, [Tianzhe Wang](https://sites.google.com/view/tianzhe-wang/home), [Junchi Yan](https://thinklab.sjtu.edu.cn/)
 
-*ICLR 2025* [[pdf](https://openreview.net/pdf?id=dmjQLHufev)]
+<!-- *ICLR 2025* [[pdf](https://openreview.net/pdf?id=dmjQLHufev)] -->
+<details>
+<summary><i>ICLR 2025</i> [<a href="https://openreview.net/pdf?id=dmjQLHufev">pdf</a>][<a href="https://arxiv.org/abs/2310.18444">arXiv</a>]</summary>
+An earlier version of this work with more detailed analysis is available on arXiv.
+</details>
 
 **M3C: A Framework towards Convergent, Flexible, and Unsupervised Learning of Mixture Graph Matching and Clustering**
 
