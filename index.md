@@ -108,8 +108,8 @@ Jiaxin Lu&#42;, [Yifan Sun](https://yifansun12.wixsite.com/mysite)&#42;, [Qixing
 
 <!-- *ICLR 2025* [[pdf](https://openreview.net/pdf?id=dmjQLHufev)] -->
 <details>
-<summary><i>ICLR 2025</i> [<a href="https://openreview.net/pdf?id=dmjQLHufev">pdf</a>][<a href="https://arxiv.org/abs/2310.18444">arXiv</a>]</summary>
-An earlier version of this work with more detailed analysis is available on arXiv.
+<summary><i>ICLR 2025</i> [<a href="https://openreview.net/pdf?id=dmjQLHufev">pdf</a>]</summary>
+An earlier version of this work with more detailed analysis is available on [<a href="https://arxiv.org/abs/2210.10374">arXiv</a>].
 </details>
 
 **M3C: A Framework towards Convergent, Flexible, and Unsupervised Learning of Mixture Graph Matching and Clustering**
@@ -152,7 +152,7 @@ Jiaxin Lu&#42;, [Zetian Jiang](https://sites.google.com/view/zetianjiang)&#42;, 
         <td><i>2022</i></td>
     </tr>
     <tr>
-        <td width="600"> <b>Machine Learning Methods on Graph Matching</b>[<a href="https://sjcg.jwc.sjtu.edu.cn/481/2022/2022/Dissertation.html">Dissertation</a>][<a href="https://sjcg.jwc.sjtu.edu.cn/481/29/29/Video.html">Video</a>]</td>
+        <td width="600"> <b>Machine Learning Methods on Graph Matching</b> [<a href="https://sjcg.jwc.sjtu.edu.cn/481/2022/2022/Dissertation.html">Dissertation</a>][<a href="https://sjcg.jwc.sjtu.edu.cn/481/29/29/Video.html">Video</a>]</td>
     </tr>
     <tr>
         <td width="600">Shanghai Excellent Graduate Award</td>
