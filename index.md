@@ -18,6 +18,10 @@ layout: about
 <div style="overflow-y:auto; max-height:200px;">
 <table frame="void" rules="none" border="0">
     <tr>
+        <td width="100"><b>June 2025</b></td>
+        <td>Two papers HUMOTO (on human-object interaction) and Jigsaw++ (on generation for assembly problem) are accepted by <b>ICCV 2025</b>!</td>
+    </tr>
+    <tr>
         <td width="100"><b>May 2025</b></td>
         <td>I will visit Stanford working with <a href="https://yfeng95.github.io/"><b>Dr. Yao Feng</b></a> and <a href="https://tml.stanford.edu/people/karen-liu"><b>Dr. Karen Liu</b></a> on Humanoid AI this summer!</td>
     </tr>
@@ -67,7 +71,9 @@ layout: about
 
 # Research Interests
 
-My research interests lie at the intersection of **computer vision**, **computer graphics**, and **machine learning**, with a specific emphasis on alignment and interaction analysis. I have explored diverse research topics, ranging from generative model for human-object interaction, 3D fracture assembly problem, and graph matching problems, aiming to develop algorithms that enable efficient and accurate representation for 3D world.
+My research interests lie at the intersection of computer vision, computer graphics, and machine learning, with a specific emphasis on understanding and generating 3D interactions. My work spans **3D generation** through diffusion and flow-based models, **multi-modal learning** that bridges different 3D modalities, **human-centric systems** that model complex interactions between humans and objects, and **optimization algorithms** for reconstruction and matching problems. My overarching goal is to model the 3D world through interactions - whether between objects, humans and objects, or humans themselves - using unified frameworks that can seamlessly integrate into real-world applications.
+
+
 
 # Publication
 
@@ -75,13 +81,13 @@ My research interests lie at the intersection of **computer vision**, **computer
 
 Jiaxin Lu, [Chun-Hao Paul Huang](https://paulchhuang.wixsite.com/chhuang), [Uttaran Bhattacharya](https://uttaranb127.github.io/), [Qixing Huang](https://www.cs.utexas.edu/~huangqx/), [Yi Zhou](https://zhouyisjtu.github.io/)
 
-[[arxiv](https://arxiv.org/abs/2504.10414)][[project](https://jiaxin-lu.github.io/humoto/)]
+*ICCV 2025* [[arxiv](https://arxiv.org/abs/2504.10414)][[project](https://jiaxin-lu.github.io/humoto/)]
 
 **Jigsaw++: Imagining Complete Shape Priors for Object Reassembly**
 
 Jiaxin Lu, [Gang Hua](https://www.ganghua.org/), [Qixing Huang](https://www.cs.utexas.edu/~huangqx/)
 
-[[arxiv](https://arxiv.org/abs/2410.11816)]
+*ICCV 2025* [[arxiv](https://arxiv.org/abs/2410.11816)]
 
 **A Survey on Computational Solutions for Reconstructing Complete Objects by Reassembling Their Fractured Parts**
 
@@ -94,7 +100,7 @@ Jiaxin Lu&#42;, Yongqing Liang&#42;, Huijun Han&#42;, Jiacheng Hua&#42;, Junfeng
 
 Jiaxin Lu, Hao Kang, [Haoxiang Li](https://blog.haoxiang.org/haoxiang.html), Bo Liu, Yiding Yang, [Qixing Huang](https://www.cs.utexas.edu/~huangqx/), [Gang Hua](https://www.ganghua.org/)
 
-*ECCV 2024* [[arxiv](https://arxiv.org/abs/2311.16917)][[project](https://jiaxin-lu.github.io/ugg/)][[code](https://github.com/Jiaxin-Lu/ugg)]
+*ECCV 2024, Oral* [[arxiv](https://arxiv.org/abs/2311.16917)][[project](https://jiaxin-lu.github.io/ugg/)][[code](https://github.com/Jiaxin-Lu/ugg)]
 
 **Jigsaw: Learning to Assemble Multiple Fractured Objects**
 
@@ -119,6 +125,11 @@ Jiaxin Lu&#42;, [Zetian Jiang](https://sites.google.com/view/zetianjiang)&#42;, 
 *ICLR 2024* [[arxiv](https://arxiv.org/abs/2310.18444)]
 
 # Research Experience
+
+**Stanford**, *May 2025 - present*
+
+* Visiting PhD Student, Advised by [**Dr. Yao Feng**](https://yfeng95.github.io/) and [**Dr. Karen Liu**](https://tml.stanford.edu/people/karen-liu)
+* Working on humanoid AI.
 
 **Adobe**, *May 2024 - April 2025*
 
