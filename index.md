@@ -89,6 +89,13 @@ Jiaxin Lu, [Gang Hua](https://www.ganghua.org/), [Qixing Huang](https://www.cs.u
 
 *ICCV 2025* [[arxiv](https://arxiv.org/abs/2410.11816)]
 
+**An Efficient Global-to-Local Rotation Optimization Approach via Spherical Harmonics**
+
+[Zihang He](https://hzh16.github.io/), [Yuezhi Yang](https://yyuezhi.github.io/), [Congyue Deng](https://cs.stanford.edu/~congyue/), Jiaxin Lu, [Leonidas Guibas](https://geometry.stanford.edu/), [Qixing Huang](https://www.cs.utexas.edu/~huangqx/)
+
+*Symposium on Geometry Processing (SGP), 2025* [[paper](https://www.cs.utexas.edu/~huangqx/SHRot_2025.pdf)]
+
+
 **A Survey on Computational Solutions for Reconstructing Complete Objects by Reassembling Their Fractured Parts**
 
 Jiaxin Lu&#42;, Yongqing Liang&#42;, Huijun Han&#42;, Jiacheng Hua&#42;, Junfeng Jiang, Xin Li, [Qixing Huang](https://www.cs.utexas.edu/~huangqx/)
